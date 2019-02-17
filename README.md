@@ -1,6 +1,6 @@
 # Hello World, Node.js 
 
-A really simple Node.js application that responds to `GET /` with `Hello dev.to!`. It is for demonstrative reasons in [Run your Node.js application on a headless Raspberry Pi](#) article on [dev.to](https://dev.to).
+A really simple Node.js application that responds to `GET /` with `Hello dev.to!`. It is for demonstrative reasons in [Run your Node.js application on a headless Raspberry Pi](https://dev.to/bogdaaamn/run-your-nodejs-application-on-a-headless-raspberry-pi-4jnn) article on [dev.to](https://dev.to).
 
 ## Installing
 
@@ -27,4 +27,4 @@ pm2 start app.js
 
 ## Further read
 
-More about the reasoning behind you can find [here](#).
+More about the reasoning behind you can find [here](https://dev.to/bogdaaamn/run-your-nodejs-application-on-a-headless-raspberry-pi-4jnn).
